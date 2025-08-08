@@ -84,6 +84,20 @@ Focus: AI × Environment × Agent-based workflows
 
 ---
 
+📁 Lyra_Console_RH/
+├── 📄 README.md                   # Main README (English)
+├── 📄 README_Lyra_Console_RH_FR.md  # French version of the README
+├── 📄 requirements.txt            # Minimal Python dependencies
+│
+├── 📁 code/                       # Source code (Notebook)
+│   └── Lyra_RH_console.ipynb      # Interactive HR console using OpenAI Assistant + Gradio
+│
+├── 📁 screenshots/                # Illustrative screenshots
+│   ├── prompting_console.png      # Prompt input area with UI
+│   ├── questions_list.png         # Example of assistant listing previous questions
+│   └── Reply_mail.png             # Example of AI-generated HR email
+
+
 ## 📝 License
 
 This project is open-source and intended for educational, research, and personal use.  
