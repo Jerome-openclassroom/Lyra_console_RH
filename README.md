@@ -1,6 +1,6 @@
 # 🤖 Lyra_Console_RH — AI Recruitment Assistant (RAG + OpenAI)
 
-**Lyra_Console_RH** is a lightweight AI-based human resources assistant that simulates the behavior of a responsive, intelligent recruiter.  
+**Lyra_Console_RH** is a lightweight AI-based human resources assistant that simulates the behavior of a responsive, intelligent tool for recruiter.  
 It combines OpenAI Assistants API, persistent thread memory, retrieval-augmented generation (RAG), and a Gradio interface.
 
 ---
