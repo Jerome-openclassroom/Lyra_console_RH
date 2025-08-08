@@ -99,6 +99,12 @@ Documents used in the RAG system include:
 
 ```
 
+## 🔄 Related Projects
+
+🔗 Also check out the n8n version of the recruiter agent: [Lyra_Recruiter_Agent_n8n](https://github.com/Jerome-openclassroom/Lyra_Recruiter_Agent_n8n)  
+
+🔗 Or explore the Make.com version integrated into a full AI scenario: [Lyra_Recruiter_Agent_Make](https://github.com/Jerome-openclassroom/Lyra_Recruiter_Agent_Make)
+
 ## 🧠 Author
 
 **Jérôme Frasson**  
