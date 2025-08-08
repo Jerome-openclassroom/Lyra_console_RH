@@ -14,7 +14,7 @@ Il simule le comportement d’un recruteur intelligent grâce à l’API Assista
 
 ## 🚀 Fonctionnalités principales
 
-- 🧠 **Assistant OpenAI avec RAG** : Connecté à un magasin vectoriel construit à partir de README liés à l’IA, l’écologie, la météorologie et l’agronomie.
+- 🧠 **Assistant OpenAI avec RAG** : Connecté à une base de données vectorielle construite à partir de fichiers README (GitHub) liés à l’IA, l’écologie, la météorologie et l’agronomie.
 - 🧾 **Mémoire persistante** : Utilise un `thread_id` fixe pour conserver l’historique des échanges.
 - 🪄 **Génération naturelle de mails** : Produit des emails RH personnalisés et immédiatement exploitables.
 - 🎛️ **Console interactive** : Interface simple via Gradio simulant un bureau RH virtuel.
