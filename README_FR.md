@@ -1,5 +1,11 @@
 # 🤖 Lyra_Console_RH — Assistant RH IA (RAG + OpenAI)
 
+![Made with Gradio](https://img.shields.io/badge/Made%20with-Gradio-ff6b6b?logo=gradio)
+![OpenAI Assistant](https://img.shields.io/badge/OpenAI-Assistant_API-01a982?logo=openai)
+![License MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+![Language](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
+
+
 **Lyra_Console_RH** est un assistant de recrutement basé sur l’intelligence artificielle, léger et réactif.  
 Il simule le comportement d’un recruteur intelligent grâce à l’API Assistants d’OpenAI, à une mémoire de conversation persistante, à un système RAG (génération augmentée par récupération), et à une interface Gradio.
 
