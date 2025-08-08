@@ -75,6 +75,25 @@ Les documents intégrés dans le RAG incluent :
 
 ---
 
+## 📂 Organisation du dépôt
+
+```
+📁 Lyra_Console_RH/
+├── 📄 README.md                   # README principal en anglais
+├── 📄 README_Lyra_Console_RH_FR.md  # Version française du README
+├── 📄 requirements.txt            # Dépendances Python minimales (OpenAI, Gradio, etc.)
+│
+├── 📁 code/                       # Code source (Notebook IA)
+│   └── Lyra_RH_console.ipynb      # Console RH interactive utilisant OpenAI Assistant + Gradio
+│
+├── 📁 screenshots/                # Captures d’écran illustratives
+│   ├── prompting_console.png      # Fenêtre de prompt avec interface utilisateur
+│   ├── questions_list.png         # Exemple de réponse listant les questions posées
+│   └── Reply_mail.png             # Exemple de mail RH généré automatiquement
+
+
+```
+
 ## 🧠 Auteur
 
 **Jérôme Frasson**  
