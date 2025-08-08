@@ -1,5 +1,6 @@
 # 🤖 Lyra_Console_RH — Assistant RH IA (RAG + OpenAI)
 
+
 ![Made with Gradio](https://img.shields.io/badge/Made%20with-Gradio-ff6b6b?logo=gradio)
 ![OpenAI Assistant](https://img.shields.io/badge/OpenAI-Assistant_API-01a982?logo=openai)
 ![License MIT](https://img.shields.io/badge/License-MIT-blue.svg)
