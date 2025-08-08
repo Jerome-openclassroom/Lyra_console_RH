@@ -101,6 +101,12 @@ Les documents intégrés dans le RAG incluent :
 
 ```
 
+## 🔄 Projets connexes
+
+🔗 Découvrez également la version n8n de l’agent RH : [Lyra_Recruiter_Agent_n8n](https://github.com/Jerome-openclassroom/Lyra_Recruiter_Agent_n8n)
+🔗 Ou sa version Make intégrée à un scénario IA complet : [Lyra_Recruiter_Agent_Make](https://github.com/Jerome-openclassroom/Lyra_Recruiter_Agent_Make)
+
+
 ## 🧠 Auteur
 
 **Jérôme Frasson**  
