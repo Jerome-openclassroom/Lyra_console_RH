@@ -75,15 +75,9 @@ Documents used in the RAG system include:
 
 ---
 
-## 🧠 Author
+## 📂 Folder Structure
 
-**Jérôme Frasson**  
-GitHub: [@Jerome-openclassroom](https://github.com/Jerome-openclassroom)  
-Email: jerome.frasson.vsi@gmail.com  
-Focus: AI × Environment × Agent-based workflows
-
----
-
+```
 📁 Lyra_Console_RH/
 ├── 📄 README.md                   # Main README (English)
 ├── 📄 README_Lyra_Console_RH_FR.md  # French version of the README
@@ -97,6 +91,16 @@ Focus: AI × Environment × Agent-based workflows
 │   ├── questions_list.png         # Example of assistant listing previous questions
 │   └── Reply_mail.png             # Example of AI-generated HR email
 
+```
+
+## 🧠 Author
+
+**Jérôme Frasson**  
+GitHub: [@Jerome-openclassroom](https://github.com/Jerome-openclassroom)  
+Email: jerome.frasson.vsi@gmail.com  
+Focus: AI × Environment × Agent-based workflows
+
+---
 
 ## 📝 License
 
